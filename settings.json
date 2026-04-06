@@ -1,5 +1,5 @@
 {
-  "name": "RasplinBot.",
+  "name": "RasplinBot",
   "bot-account": {
     "username": "RasplinBot",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "unstablesmpwarriors.aternos.me",
     "port": 51219,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
